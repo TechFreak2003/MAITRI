@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maitri - The Third Eye of the Forest
+# Maitri - Bridging the Gaps Between Humans and Wilds
 
 **Seeing the unseen, protecting the vulnerable**
 
@@ -142,3 +142,4 @@ We love contributions! 💝
 <div align="center">
 <sub>Made with 🔥 and lots of ☕ • © 2025 TechFreak2003</sub>
 </div>
+
