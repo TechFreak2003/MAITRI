@@ -1,0 +1,12 @@
+{
+  "scraping_date": "2025-08-23T12:15:25.832977",
+  "focus_region": "Indian Subcontinent",
+  "total_incidents": 150,
+  "total_forest_boundaries": 50,
+  "total_wildlife_sightings": 124,
+  "total_weather_records": 120,
+  "total_geographic_features": 20,
+  "ml_dataset_size": 300,
+  "wildlife_zones_covered": 10,
+  "data_quality": "High - India focused with realistic patterns"
+}

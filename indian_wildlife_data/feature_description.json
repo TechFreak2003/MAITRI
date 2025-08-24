@@ -1,0 +1,44 @@
+{
+  "features": {
+    "location": "District/area name",
+    "latitude": "GPS latitude",
+    "longitude": "GPS longitude",
+    "distance_to_forest_km": "Distance to nearest forest in km",
+    "month": "Month of year (1-12)",
+    "season": "Indian season (winter/summer/monsoon/post_monsoon)",
+    "animal_type": "Type of animal involved",
+    "incident_type": "Type of incident",
+    "casualties": "Number of human casualties",
+    "temperature_c": "Temperature in Celsius",
+    "rainfall_mm": "Rainfall in millimeters",
+    "humidity_percent": "Humidity percentage",
+    "risk_level": "Risk category (low/medium/high)",
+    "incident_occurred": "Target variable (0=no incident, 1=incident)"
+  },
+  "target_distribution": {
+    "low": 212,
+    "medium": 80,
+    "high": 8
+  },
+  "animal_distribution": {
+    "none": 150,
+    "wild boar": 38,
+    "elephant": 25,
+    "sloth bear": 24,
+    "tiger": 23,
+    "leopard": 22,
+    "gaur": 18
+  },
+  "state_distribution": {
+    "Unknown": 150,
+    "Kerala": 26,
+    "Assam": 22,
+    "Karnataka": 20,
+    "Maharashtra": 19,
+    "Tamil Nadu": 17,
+    "Uttarakhand": 16,
+    "Gujarat": 15,
+    "Rajasthan": 8,
+    "Madhya Pradesh": 7
+  }
+}

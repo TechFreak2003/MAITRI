@@ -1,0 +1,222 @@
+[
+  {
+    "type": "village",
+    "name": "Kaniyanpura",
+    "latitude": 11.733153406949825,
+    "longitude": 76.49361656670249,
+    "state": "Karnataka",
+    "population": 4814,
+    "distance_to_forest": 2.5394924679886777,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Bandipur National Park",
+    "latitude": 11.68494000474944,
+    "longitude": 76.5722607805198,
+    "state": "Karnataka",
+    "crop_type": "sugarcane",
+    "area_hectares": 396,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "village",
+    "name": "Bandipur Village",
+    "latitude": 29.471447565652095,
+    "longitude": 78.78322704471724,
+    "state": "Uttarakhand",
+    "population": 658,
+    "distance_to_forest": 2.195786844883828,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Jim Corbett National Park",
+    "latitude": 29.401824274638038,
+    "longitude": 78.82815559485867,
+    "state": "Uttarakhand",
+    "crop_type": "sugarcane",
+    "area_hectares": 437,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "village",
+    "name": "Forest Colony",
+    "latitude": 26.64319981055285,
+    "longitude": 93.19845528384292,
+    "state": "Assam",
+    "population": 3580,
+    "distance_to_forest": 2.9270784406790535,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Kaziranga National Park",
+    "latitude": 26.511948799041374,
+    "longitude": 93.24592733524017,
+    "state": "Assam",
+    "crop_type": "rice",
+    "area_hectares": 723,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "village",
+    "name": "Tribal Settlement",
+    "latitude": 26.00757414045632,
+    "longitude": 76.49954931079628,
+    "state": "Rajasthan",
+    "population": 4017,
+    "distance_to_forest": 1.3169720712910868,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Ranthambore National Park",
+    "latitude": 25.962909575798975,
+    "longitude": 76.40216713809342,
+    "state": "Rajasthan",
+    "crop_type": "vegetables",
+    "area_hectares": 244,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "village",
+    "name": "Dhikala",
+    "latitude": 9.474212149847636,
+    "longitude": 77.18632878288649,
+    "state": "Kerala",
+    "population": 3950,
+    "distance_to_forest": 1.3804424402227973,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Periyar Tiger Reserve",
+    "latitude": 9.593328123122502,
+    "longitude": 77.17752122867576,
+    "state": "Kerala",
+    "crop_type": "sugarcane",
+    "area_hectares": 610,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "village",
+    "name": "Corbett Village",
+    "latitude": 21.872877402198878,
+    "longitude": 89.17638140779496,
+    "state": "West Bengal",
+    "population": 852,
+    "distance_to_forest": 2.0763694116290616,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Sundarbans National Park",
+    "latitude": 21.81629790178846,
+    "longitude": 89.15644330192332,
+    "state": "West Bengal",
+    "crop_type": "maize",
+    "area_hectares": 465,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "village",
+    "name": "Kaziranga Village",
+    "latitude": 21.092652048663183,
+    "longitude": 70.79787425547285,
+    "state": "Gujarat",
+    "population": 1920,
+    "distance_to_forest": 2.190179600148947,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Gir National Park",
+    "latitude": 21.171031917659008,
+    "longitude": 70.76599727488518,
+    "state": "Gujarat",
+    "crop_type": "maize",
+    "area_hectares": 259,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "village",
+    "name": "Tea Estate Workers",
+    "latitude": 20.178793663626823,
+    "longitude": 79.30854303775968,
+    "state": "Maharashtra",
+    "population": 3392,
+    "distance_to_forest": 2.207341261320245,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Tadoba National Park",
+    "latitude": 20.2998650183455,
+    "longitude": 79.2589059217198,
+    "state": "Maharashtra",
+    "crop_type": "vegetables",
+    "area_hectares": 169,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "village",
+    "name": "Ranthambore Village",
+    "latitude": 12.006264977632583,
+    "longitude": 76.06647798932491,
+    "state": "Karnataka",
+    "population": 758,
+    "distance_to_forest": 1.2116409402884516,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Nagarhole National Park",
+    "latitude": 12.038022597577948,
+    "longitude": 76.05310013797838,
+    "state": "Karnataka",
+    "crop_type": "maize",
+    "area_hectares": 758,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "village",
+    "name": "Sawai Madhopur",
+    "latitude": 22.2976181151233,
+    "longitude": 80.63679522814199,
+    "state": "Madhya Pradesh",
+    "population": 1967,
+    "distance_to_forest": 0.8435204958917798,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  },
+  {
+    "type": "agriculture",
+    "name": "Agricultural Area near Kanha National Park",
+    "latitude": 22.21749421996456,
+    "longitude": 80.66326676497762,
+    "state": "Madhya Pradesh",
+    "crop_type": "rice",
+    "area_hectares": 236,
+    "source": "Generated Data",
+    "scraped_at": "2025-08-23T12:15:25.773551"
+  }
+]
