@@ -1,0 +1,1502 @@
+[
+  {
+    "date": "2024-04-14",
+    "location": "Mysore, Karnataka",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Mysore, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-10-01",
+    "location": "Junagadh, Gujarat",
+    "animal": "leopard",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard sighting in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-03-12",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "leopard",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard sighting in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-06-04",
+    "location": "Jorhat, Assam",
+    "animal": "wild boar",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar sighting in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-09-04",
+    "location": "Idukki, Kerala",
+    "animal": "gaur",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur property damage in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-14",
+    "location": "Nilgiris, Tamil Nadu",
+    "animal": "gaur",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur livestock kill in Nilgiris, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-05",
+    "location": "Nainital, Uttarakhand",
+    "animal": "sloth bear",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear livestock kill in Nainital, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-04-22",
+    "location": "Chandrapur, Maharashtra",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Chandrapur, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-07-04",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "gaur",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur injury in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-01-17",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "leopard",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard livestock kill in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-09-02",
+    "location": "Nainital, Uttarakhand",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 1,
+    "source": "Generated Data",
+    "title": "Tiger injury in Nainital, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-12-08",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "sloth bear",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear sighting in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-25",
+    "location": "Hassan, Karnataka",
+    "animal": "gaur",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur livestock kill in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-03-13",
+    "location": "Sonitpur, Assam",
+    "animal": "sloth bear",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear crop damage in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-10-25",
+    "location": "Sawai Madhopur, Rajasthan",
+    "animal": "leopard",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard property damage in Sawai Madhopur, Rajasthan",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-03-01",
+    "location": "Wayanad, Kerala",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-25",
+    "location": "Junagadh, Gujarat",
+    "animal": "sloth bear",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear livestock kill in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-08-15",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "elephant",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant crop damage in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-06-22",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "leopard",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard property damage in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-11-05",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "tiger",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger livestock kill in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-03-14",
+    "location": "Mysore, Karnataka",
+    "animal": "elephant",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant property damage in Mysore, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-06-06",
+    "location": "Jorhat, Assam",
+    "animal": "sloth bear",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear property damage in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-04-25",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "wild boar",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar sighting in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-08-22",
+    "location": "Sawai Madhopur, Rajasthan",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Sawai Madhopur, Rajasthan",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-04-25",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "leopard",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard crop damage in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-08-09",
+    "location": "Junagadh, Gujarat",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-22",
+    "location": "Chandrapur, Maharashtra",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Chandrapur, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-09-11",
+    "location": "Junagadh, Gujarat",
+    "animal": "sloth bear",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear crop damage in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-11-15",
+    "location": "Wayanad, Kerala",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 1,
+    "source": "Generated Data",
+    "title": "Tiger injury in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-06-06",
+    "location": "Sawai Madhopur, Rajasthan",
+    "animal": "gaur",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur crop damage in Sawai Madhopur, Rajasthan",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-04-22",
+    "location": "Balaghat, Madhya Pradesh",
+    "animal": "sloth bear",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear injury in Balaghat, Madhya Pradesh",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-10-21",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "sloth bear",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear sighting in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-09-14",
+    "location": "Chandrapur, Maharashtra",
+    "animal": "leopard",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard livestock kill in Chandrapur, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-10-12",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "tiger",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger sighting in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-12-13",
+    "location": "Sonitpur, Assam",
+    "animal": "wild boar",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar sighting in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-01-08",
+    "location": "Nilgiris, Tamil Nadu",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger injury in Nilgiris, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-02",
+    "location": "Jorhat, Assam",
+    "animal": "wild boar",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar injury in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-01-25",
+    "location": "Hassan, Karnataka",
+    "animal": "elephant",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant sighting in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-12-15",
+    "location": "Balaghat, Madhya Pradesh",
+    "animal": "elephant",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant property damage in Balaghat, Madhya Pradesh",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-12-01",
+    "location": "Hassan, Karnataka",
+    "animal": "gaur",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur injury in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-05-19",
+    "location": "Jorhat, Assam",
+    "animal": "sloth bear",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear sighting in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-04-19",
+    "location": "Sawai Madhopur, Rajasthan",
+    "animal": "wild boar",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar injury in Sawai Madhopur, Rajasthan",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-03-01",
+    "location": "Sawai Madhopur, Rajasthan",
+    "animal": "sloth bear",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear livestock kill in Sawai Madhopur, Rajasthan",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-08-20",
+    "location": "Mysore, Karnataka",
+    "animal": "wild boar",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar crop damage in Mysore, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-07-12",
+    "location": "Jorhat, Assam",
+    "animal": "sloth bear",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear property damage in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-12-08",
+    "location": "Nainital, Uttarakhand",
+    "animal": "leopard",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard sighting in Nainital, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-01-28",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "wild boar",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar sighting in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-01-07",
+    "location": "Hassan, Karnataka",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-03-07",
+    "location": "Idukki, Kerala",
+    "animal": "gaur",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur injury in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-01-30",
+    "location": "Chandrapur, Maharashtra",
+    "animal": "sloth bear",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear crop damage in Chandrapur, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-09-22",
+    "location": "Sonitpur, Assam",
+    "animal": "tiger",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger livestock kill in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-09-14",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "elephant",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant sighting in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-05-05",
+    "location": "Jorhat, Assam",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-01-12",
+    "location": "Idukki, Kerala",
+    "animal": "leopard",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard injury in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-03-01",
+    "location": "Sawai Madhopur, Rajasthan",
+    "animal": "wild boar",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar injury in Sawai Madhopur, Rajasthan",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-06-24",
+    "location": "Junagadh, Gujarat",
+    "animal": "elephant",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant injury in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-01-05",
+    "location": "Sonitpur, Assam",
+    "animal": "tiger",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger livestock kill in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-12-02",
+    "location": "Balaghat, Madhya Pradesh",
+    "animal": "tiger",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger sighting in Balaghat, Madhya Pradesh",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-05",
+    "location": "Mysore, Karnataka",
+    "animal": "sloth bear",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear crop damage in Mysore, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-18",
+    "location": "Sonitpur, Assam",
+    "animal": "gaur",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur property damage in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-04-23",
+    "location": "Junagadh, Gujarat",
+    "animal": "elephant",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant injury in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-06-09",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "elephant",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant crop damage in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-12-15",
+    "location": "Junagadh, Gujarat",
+    "animal": "elephant",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant property damage in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-12",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "leopard",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard injury in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-12-21",
+    "location": "Hassan, Karnataka",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 1,
+    "source": "Generated Data",
+    "title": "Tiger injury in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-07-05",
+    "location": "Mysore, Karnataka",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 1,
+    "source": "Generated Data",
+    "title": "Tiger injury in Mysore, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-17",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "sloth bear",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear crop damage in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-06-11",
+    "location": "Idukki, Kerala",
+    "animal": "tiger",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger livestock kill in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-01-25",
+    "location": "Balaghat, Madhya Pradesh",
+    "animal": "elephant",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant injury in Balaghat, Madhya Pradesh",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-02-27",
+    "location": "Sawai Madhopur, Rajasthan",
+    "animal": "tiger",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger livestock kill in Sawai Madhopur, Rajasthan",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-01-22",
+    "location": "Hassan, Karnataka",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-12-05",
+    "location": "Nilgiris, Tamil Nadu",
+    "animal": "gaur",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur sighting in Nilgiris, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-05-12",
+    "location": "Sonitpur, Assam",
+    "animal": "gaur",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur injury in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-12-05",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "sloth bear",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear injury in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-10-08",
+    "location": "Jorhat, Assam",
+    "animal": "elephant",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant crop damage in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-09-21",
+    "location": "Nainital, Uttarakhand",
+    "animal": "wild boar",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar crop damage in Nainital, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-01-21",
+    "location": "Junagadh, Gujarat",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 1,
+    "source": "Generated Data",
+    "title": "Tiger injury in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-09-30",
+    "location": "Balaghat, Madhya Pradesh",
+    "animal": "leopard",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard livestock kill in Balaghat, Madhya Pradesh",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-04-22",
+    "location": "Hassan, Karnataka",
+    "animal": "tiger",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger livestock kill in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-08-20",
+    "location": "Idukki, Kerala",
+    "animal": "tiger",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger livestock kill in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-03-01",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "wild boar",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar sighting in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-10-14",
+    "location": "Junagadh, Gujarat",
+    "animal": "elephant",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant crop damage in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-09-24",
+    "location": "Sonitpur, Assam",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 1,
+    "source": "Generated Data",
+    "title": "Tiger injury in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-01-29",
+    "location": "Idukki, Kerala",
+    "animal": "tiger",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger livestock kill in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-08-10",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "wild boar",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar injury in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-09-14",
+    "location": "Sonitpur, Assam",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-06-04",
+    "location": "Idukki, Kerala",
+    "animal": "elephant",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant sighting in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-05-09",
+    "location": "Junagadh, Gujarat",
+    "animal": "elephant",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant property damage in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-12-10",
+    "location": "Mysore, Karnataka",
+    "animal": "gaur",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur injury in Mysore, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-10-15",
+    "location": "Wayanad, Kerala",
+    "animal": "tiger",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger sighting in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-10-03",
+    "location": "Hassan, Karnataka",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-09-29",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "sloth bear",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear sighting in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-11-01",
+    "location": "Idukki, Kerala",
+    "animal": "elephant",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant sighting in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-07-16",
+    "location": "Sawai Madhopur, Rajasthan",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Sawai Madhopur, Rajasthan",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-02-06",
+    "location": "Hassan, Karnataka",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-12-17",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "gaur",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur crop damage in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-07-07",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "leopard",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard injury in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-06-30",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "sloth bear",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear property damage in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-05-16",
+    "location": "Idukki, Kerala",
+    "animal": "leopard",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard livestock kill in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-03-19",
+    "location": "Idukki, Kerala",
+    "animal": "elephant",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant injury in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-08-02",
+    "location": "Wayanad, Kerala",
+    "animal": "leopard",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard injury in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-12-04",
+    "location": "Nainital, Uttarakhand",
+    "animal": "elephant",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant property damage in Nainital, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-03-27",
+    "location": "Jorhat, Assam",
+    "animal": "sloth bear",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear sighting in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-01-02",
+    "location": "Wayanad, Kerala",
+    "animal": "sloth bear",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear crop damage in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-10-24",
+    "location": "Junagadh, Gujarat",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-07-28",
+    "location": "Chandrapur, Maharashtra",
+    "animal": "wild boar",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar crop damage in Chandrapur, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-09-20",
+    "location": "Chandrapur, Maharashtra",
+    "animal": "leopard",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard sighting in Chandrapur, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-06-28",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "gaur",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur property damage in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-05-06",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "wild boar",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar injury in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-03-19",
+    "location": "Wayanad, Kerala",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-08-16",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "elephant",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant sighting in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-08-15",
+    "location": "Sonitpur, Assam",
+    "animal": "leopard",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard livestock kill in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-04-05",
+    "location": "Mysore, Karnataka",
+    "animal": "leopard",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard livestock kill in Mysore, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-05-24",
+    "location": "Wayanad, Kerala",
+    "animal": "sloth bear",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear livestock kill in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-05-09",
+    "location": "Idukki, Kerala",
+    "animal": "wild boar",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar sighting in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-07-24",
+    "location": "Wayanad, Kerala",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-05-09",
+    "location": "Chandrapur, Maharashtra",
+    "animal": "sloth bear",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear sighting in Chandrapur, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-12-09",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "leopard",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard livestock kill in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-12-09",
+    "location": "Pauri Garhwal, Uttarakhand",
+    "animal": "elephant",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant property damage in Pauri Garhwal, Uttarakhand",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-08-09",
+    "location": "Junagadh, Gujarat",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger injury in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-02-02",
+    "location": "Wayanad, Kerala",
+    "animal": "tiger",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger sighting in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-05-26",
+    "location": "Nilgiris, Tamil Nadu",
+    "animal": "leopard",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard sighting in Nilgiris, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2023-10-26",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "leopard",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard sighting in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-04-05",
+    "location": "Idukki, Kerala",
+    "animal": "gaur",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur livestock kill in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2025-07-11",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "gaur",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur property damage in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.740345"
+  },
+  {
+    "date": "2024-12-26",
+    "location": "Balaghat, Madhya Pradesh",
+    "animal": "leopard",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard injury in Balaghat, Madhya Pradesh",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2025-07-08",
+    "location": "Jorhat, Assam",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2023-12-29",
+    "location": "Hassan, Karnataka",
+    "animal": "elephant",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant injury in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2025-06-26",
+    "location": "Sonitpur, Assam",
+    "animal": "elephant",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant sighting in Sonitpur, Assam",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2025-01-05",
+    "location": "Jorhat, Assam",
+    "animal": "tiger",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Tiger sighting in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-01-20",
+    "location": "Nilgiris, Tamil Nadu",
+    "animal": "wild boar",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar crop damage in Nilgiris, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-08-18",
+    "location": "Junagadh, Gujarat",
+    "animal": "gaur",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur livestock kill in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2025-08-06",
+    "location": "Gadchiroli, Maharashtra",
+    "animal": "wild boar",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar livestock kill in Gadchiroli, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2023-08-25",
+    "location": "Wayanad, Kerala",
+    "animal": "elephant",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant sighting in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-09-03",
+    "location": "Junagadh, Gujarat",
+    "animal": "elephant",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant property damage in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2025-08-23",
+    "location": "Wayanad, Kerala",
+    "animal": "sloth bear",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear livestock kill in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-04-16",
+    "location": "Mysore, Karnataka",
+    "animal": "elephant",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant property damage in Mysore, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2023-08-29",
+    "location": "Wayanad, Kerala",
+    "animal": "wild boar",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar crop damage in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2025-05-20",
+    "location": "Junagadh, Gujarat",
+    "animal": "sloth bear",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear property damage in Junagadh, Gujarat",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-02-19",
+    "location": "Nilgiris, Tamil Nadu",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 1,
+    "source": "Generated Data",
+    "title": "Tiger injury in Nilgiris, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2023-11-23",
+    "location": "Chandrapur, Maharashtra",
+    "animal": "gaur",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur injury in Chandrapur, Maharashtra",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-11-28",
+    "location": "Nilgiris, Tamil Nadu",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Nilgiris, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-08-15",
+    "location": "Jorhat, Assam",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-01-16",
+    "location": "Idukki, Kerala",
+    "animal": "tiger",
+    "incident_type": "injury",
+    "casualties": 1,
+    "source": "Generated Data",
+    "title": "Tiger injury in Idukki, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2023-10-23",
+    "location": "Mysore, Karnataka",
+    "animal": "leopard",
+    "incident_type": "crop_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Leopard crop damage in Mysore, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2025-03-16",
+    "location": "Hassan, Karnataka",
+    "animal": "elephant",
+    "incident_type": "sighting",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Elephant sighting in Hassan, Karnataka",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-03-04",
+    "location": "Balaghat, Madhya Pradesh",
+    "animal": "wild boar",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar property damage in Balaghat, Madhya Pradesh",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2023-10-05",
+    "location": "Wayanad, Kerala",
+    "animal": "sloth bear",
+    "incident_type": "livestock_kill",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Sloth Bear livestock kill in Wayanad, Kerala",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2024-06-22",
+    "location": "Coimbatore, Tamil Nadu",
+    "animal": "gaur",
+    "incident_type": "property_damage",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Gaur property damage in Coimbatore, Tamil Nadu",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  },
+  {
+    "date": "2023-10-14",
+    "location": "Jorhat, Assam",
+    "animal": "wild boar",
+    "incident_type": "injury",
+    "casualties": 0,
+    "source": "Generated Data",
+    "title": "Wild Boar injury in Jorhat, Assam",
+    "scraped_at": "2025-08-23T12:15:20.742588"
+  }
+]
