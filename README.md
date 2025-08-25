@@ -17,6 +17,20 @@ With MAITRI, whether it's **protecting vulnerable farming communities from eleph
 
 ---
 
+## 🌟 What Makes This Special?
+
+> **MAITRI** isn't just another machine learning project — it's your gateway to predictive analytics that saves lives, protects livelihoods, and fosters coexistence between humans and wildlife.
+
+### ✨ Features
+
+* 🎯 **High Accuracy**: Predicts conflict zones with optimized algorithms  
+* ⚡ **Lightning Fast**: Real-time alerting system for emergencies  
+* 📡 **Community Powered**: Villagers can report wildlife sightings via app/SMS  
+* 🌍 **Scalable**: Works for local villages to large forest divisions  
+* 🛡️ **Impact-Driven**: Saves both human and animal lives  
+
+---
+
 ### ⚡ Challenges We Ran Into
 
 Building MAITRI wasn’t without challenges. Some of the biggest hurdles included:
@@ -49,20 +63,6 @@ Here are the key diagrams for better understanding:
 - ![Architecture Diagram](./project-docs/archi%20dg.png)
 - ![Data Flow Diagram](./project-docs/maitri%20dfd_page-0001.jpg)
 - ![User Flow Diagram](./project-docs/UserFlow%20Diagram.png)
-
----
-
-## 🌟 What Makes This Special?
-
-> **MAITRI** isn't just another machine learning project — it's your gateway to predictive analytics that saves lives, protects livelihoods, and fosters coexistence between humans and wildlife.
-
-### ✨ Features
-
-* 🎯 **High Accuracy**: Predicts conflict zones with optimized algorithms  
-* ⚡ **Lightning Fast**: Real-time alerting system for emergencies  
-* 📡 **Community Powered**: Villagers can report wildlife sightings via app/SMS  
-* 🌍 **Scalable**: Works for local villages to large forest divisions  
-* 🛡️ **Impact-Driven**: Saves both human and animal lives  
 
 ---
 
@@ -144,5 +144,6 @@ trainer.save_model("maitri_model.pkl")
 ## 📫 Contact
 
 For queries or collaborations, feel free to reach out via [GitHub Issues](../../issues).
+
 
 
