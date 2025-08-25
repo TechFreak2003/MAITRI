@@ -2,7 +2,7 @@
 
 **Seeing the unseen, protecting the vulnerable**
 
-- ![MAITRI Logo](./project-docs/MAITRI%20Logo.jpeg)
+<img src="./project-docs/MAITRI%20Logo.jpeg" alt="MAITRI Logo" width="200"/>
   
 
 ### 🌍 The Problem MAITRI Solves
@@ -46,9 +46,9 @@ Building MAITRI wasn’t without challenges. Some of the biggest hurdles include
 
 Here are the key diagrams for better understanding:
 
-- ![User Flow Diagram](./project-docs/UserFlow%20Diagram.png)
 - ![Architecture Diagram](./project-docs/archi%20dg.png)
 - ![Data Flow Diagram](./project-docs/maitri%20dfd_page-0001.jpg)
+- ![User Flow Diagram](./project-docs/UserFlow%20Diagram.png)
 
 ---
 
@@ -144,3 +144,4 @@ trainer.save_model("maitri_model.pkl")
 ## 📫 Contact
 
 For queries or collaborations, feel free to reach out via [GitHub Issues](../../issues).
+
