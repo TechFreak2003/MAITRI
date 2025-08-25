@@ -1,62 +1,98 @@
-<div align="center">
-
-# MAITRI - Bridging the Gaps Between Humans and Wilds
+# 🌿 MAITRI – Bridging the Gaps Between Humans and Wilds
 
 **Seeing the unseen, protecting the vulnerable**
 
+- ![MAITRI Logo](./project-docs/MAITRI%20Logo.jpeg)
+  
 
-[![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Machine Learning](https://img.shields.io/badge/ML-Ready-ff6b6b?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/TechFreak2003/StatusCode2_ML-Model)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/TechFreak2003/StatusCode2_ML-Model?style=for-the-badge&logo=github)](https://github.com/TechFreak2003/StatusCode2_ML-Model/stargazers)
+### 🌍 The Problem MAITRI Solves
 
-*Transform your data into intelligent predictions with cutting-edge ML algorithms*
+**MAITRI** is our comprehensive solution for preventing wildlife-human conflicts and ensuring safety for both communities and wildlife. The platform offers innovative features like **real-time conflict risk prediction**, where advanced machine learning algorithms analyze satellite data, weather patterns, and historical incident records to forecast potential hotspots.
 
-[🎯 Get Started](#-quick-start) • [📊 Features](#-features) • [🔧 Installation](#-installation) • [📖 Documentation](#-usage)
+When risk levels exceed safe thresholds, **instant notifications** are sent to villagers, tourists, and forest officials within affected areas. Additionally, MAITRI integrates **crowdsourced wildlife sighting reports** with intelligent routing systems, alerting users about **safe travel corridors** and **high-risk zones** marked on interactive maps.
 
-</div>
+Beyond conflict prevention, the platform also excels in **community empowerment and tourism safety**. It includes a **dual-mode interface** that serves both local villagers with crop protection alerts and SMS warnings in regional languages, and tourists with guided trail recommendations, nearest forest checkpost locations, and real-time safety protocols.
+
+With MAITRI, whether it's **protecting vulnerable farming communities from elephant raids** or **ensuring wildlife enthusiasts have safe safari experiences**, you have the tools to safeguard what matters most.
+
+---
+
+### ⚡ Challenges We Ran Into
+
+Building MAITRI wasn’t without challenges. Some of the biggest hurdles included:
+
+* **Frontend – Backend Integration**: Synchronizing APIs with real-time geospatial and ML prediction data.
+* **Running Parallel Dual ML Models**:
+
+  1. **Classification Model** – For villagers, categorizing risk levels as *Low, Medium, High*.
+  2. **Regression Model** – For tourists, guides, and forest officials to optimize safe routes and risk scoring.
+* **Real-Time Location Updates**: Displaying nearby wildlife species and dynamically generating safe routes.
+* **Private Network Setup**: Establishing secure test environments for sensitive data.
+* **Data Scarcity & Class Imbalance**: Limited availability of wildlife conflict datasets and underrepresentation of “SAFE” alerts, reducing generalization in alert categorization.
+
+---
+
+### 🎯 Tracks Applied (Hackathon Context)
+
+* **Wildlife**
+* **Smart Alerts and Monitoring System** – Designed to reduce Wildlife-Human conflicts in nearby villages, trekking trails, and tourist spots.
+
+---
+ 
+---
+
+
+## 📊 Project Architecture / Understanding
+
+Here are the key diagrams for better understanding:
+
+- ![User Flow Diagram](./project-docs/UserFlow%20Diagram.png)
+- ![Architecture Diagram](./project-docs/archi%20dg.png)
+- ![Data Flow Diagram](./project-docs/maitri%20dfd_page-0001.jpg)
 
 ---
 
 ## 🌟 What Makes This Special?
 
-> **Maitri** isn't just another machine learning project — it's your gateway to intelligent data analysis with state-of-the-art algorithms that deliver results you can trust.
+> **MAITRI** isn't just another machine learning project — it's your gateway to predictive analytics that saves lives, protects livelihoods, and fosters coexistence between humans and wildlife.
 
 ### ✨ Features
 
-- 🎯 **High Accuracy**: Delivers precise predictions with optimized algorithms
-- ⚡ **Lightning Fast**: Optimized for speed without compromising quality
-- 🔄 **Easy Integration**: Plug-and-play API that works out of the box
-- 📈 **Scalable**: Handles datasets from small experiments to enterprise-level
-- 🛡️ **Production Ready**: Battle-tested and thoroughly validated
+* 🎯 **High Accuracy**: Predicts conflict zones with optimized algorithms  
+* ⚡ **Lightning Fast**: Real-time alerting system for emergencies  
+* 📡 **Community Powered**: Villagers can report wildlife sightings via app/SMS  
+* 🌍 **Scalable**: Works for local villages to large forest divisions  
+* 🛡️ **Impact-Driven**: Saves both human and animal lives  
 
-## 🚀 Quick Start
+---
 
-Get up and running in less than 2 minutes:
+## 🛠 Project Structure
 
-```bash
-# Clone the magic ✨
-git clone https://github.com/TechFreak2003/StatusCode2_ML-Model.git
-cd StatusCode2_ML-Model
-
-# Install dependencies 📦
-pip install -r requirements.txt
-
-# Run your first prediction 🎯
-python predict.py --input your_data.csv
+```
+MAITRI/
+├── Code/                   # Core ML & data processing
+│   ├── Data Scrapper/      # Data scraping tools
+│   └── Model/              # ML models
+├── JWT_AUTH/               # Authentication module
+├── backend/                # Backend services
+├── frontend/               # Frontend app
+├── indian_wildlife_data/   # Dataset files
+├── project-docs/           # Documentation
+├── YOLO_Model.ipynb        # Vision-based conflict detection
+├── architecture diagram.png# System architecture
+└── README.md
 ```
 
-## 💡 Usage
+---
+
+## 🚀 Usage
 
 ### 🎪 Simple Prediction
 
 ```python
 from statuscode2_ml import Model
 
-# Initialize the model
 model = Model()
-
-# Make predictions like a pro! 🎯
 predictions = model.predict(your_data)
 print(f"🎉 Results: {predictions}")
 ```
@@ -66,81 +102,45 @@ print(f"🎉 Results: {predictions}")
 ```python
 from statuscode2_ml import Trainer
 
-# Create a trainer instance
 trainer = Trainer()
-
-# Train with your data 🚀
 trainer.fit(X_train, y_train, epochs=50)
-
-# Save for later use 💾
-trainer.save_model("my_awesome_model.pkl")
+trainer.save_model("maitri_model.pkl")
 ```
-
-## 🔧 Installation
-
-### Prerequisites
-- Python 3.8+ 🐍
-- pip package manager 📦
-
-### Install Dependencies
-```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
-```
-
-## 📊 Performance Highlights
-
-| Metric | Score | Status |
-|--------|-------|--------|
-| 🎯 Accuracy | 95.2% | ✅ Excellent |
-| ⚡ Speed | <50ms | ✅ Lightning Fast |
-| 📊 F1-Score | 0.94 | ✅ Outstanding |
-| 🚀 Training Time | 5 min | ✅ Quick |
-
-## 🛠️ Project Structure
-
-```
-📁 StatusCode2_ML-Model/
-├── 🧠 model/           # Core ML algorithms
-├── 📊 data/            # Dataset files
-├── 🔧 utils/           # Helper functions
-├── 📈 notebooks/       # Jupyter experiments
-├── 🧪 tests/           # Unit tests
-└── 📖 docs/            # Documentation
-```
-
-## 🎉 What's Next?
-
-- [ ] 🔥 Advanced neural networks
-- [ ] 🌐 Web API deployment
-- [ ] 📱 Mobile app integration
-- [ ] 🚀 Real-time predictions
-
-## 🤝 Contributing
-
-We love contributions! 💝
-
-1. 🍴 Fork the repo
-2. 🌟 Create your feature branch
-3. 💡 Make your changes
-4. 🚀 Submit a pull request
-
-## 📞 Connect With Us
-
-<div align="center">
-
-**Built with ❤️ by [TechFreak2003](https://github.com/TechFreak2003) & [alok-devforge](https://github.com/TechFreak2003)**
-
-[![GitHub](https://img.shields.io/badge/GitHub-TechFreak2003-181717?style=for-the-badge&logo=github)](https://github.com/TechFreak2003)
-[![Project](https://img.shields.io/badge/Project-StatusCode2--ML--Model-ff6b6b?style=for-the-badge&logo=github)](https://github.com/TechFreak2003/StatusCode2_ML-Model)
-
-*⭐ Star this repo if it helped you!*
-
-</div>
 
 ---
 
-<div align="center">
-<sub>Made with 🔥 and lots of ☕ • © 2025 TechFreak2003</sub>
-</div>
+## 📊 Performance Highlights
 
+| Metric           | Score | Status           |
+| ---------------- | ----- | ---------------- |
+| 🎯 Accuracy      | 95.2% | ✅ Excellent      |
+| ⚡ Speed         | <50ms | ✅ Lightning Fast |
+| 📊 F1-Score      | 0.94  | ✅ Outstanding    |
+| 🚀 Training Time | 5 min | ✅ Quick          |
 
+---
+
+## 🎉 What's Next?
+
+* [ ] 📱 Mobile app integration
+* [ ] 🔥 Advanced neural networks  
+* [ ] 🌐 Going Nationwide     
+* [ ] 🚀 Real-time predictions using GPS-collar necklace tracker 
+
+---
+
+## 👨‍💻 Team Members
+
+| Name                          | GitHub                                            | Role                     |
+| ----------------------------- | ------------------------------------------------- | ------------------------ |
+| **Suvrodeep Das (Team Lead)** | [TechFreak2003](https://github.com/TechFreak2003) | Team Lead / ML Developer |
+| **Alok Kumar**                | [alok-devforge](https://github.com/alok-devforge) | Frontend Developer       |
+| **M Kalkita**                 | [Kalkita](https://github.com/Kalkita)             | Data Scientist           |
+| **Rohini Khan**               | [Rohini2004](https://github.com/Rohini2004)       | Research & Dataset       |
+| **Sarthak Bose**              | [Cyber-Bose](https://github.com/Cyber-Bose)       | Backend Developer        |
+
+---
+
+## 📫 Contact
+
+For queries or collaborations, feel free to reach out via [GitHub Issues](../../issues).
