@@ -78,7 +78,7 @@ MAITRI/
 ├── frontend/               # Frontend app
 ├── indian_wildlife_data/   # Dataset files
 ├── project-docs/           # Documentation
-├── YOLO_Model.ipynb        # Vision-based conflict detection
+├── YOLO_Model.ipynb        # Vision-based conflict detection for Live Wildlife-Sighting Form Submission
 ├── architecture diagram.png# System architecture
 └── README.md
 ```
@@ -131,17 +131,18 @@ trainer.save_model("maitri_model.pkl")
 
 ## 👨‍💻 Team Members
 
-| Name                          | GitHub                                            | Role                     |
-| ----------------------------- | ------------------------------------------------- | ------------------------ |
-| **Suvrodeep Das (Team Lead)** | [TechFreak2003](https://github.com/TechFreak2003) | Team Lead / ML Developer |
-| **Alok Kumar**                | [alok-devforge](https://github.com/alok-devforge) | Frontend Developer       |
-| **M Kalkita**                 | [Kalkita](https://github.com/Kalkita)             | Data Scientist           |
-| **Rohini Khan**               | [Rohini2004](https://github.com/Rohini2004)       | Research & Dataset       |
-| **Sarthak Bose**              | [Cyber-Bose](https://github.com/Cyber-Bose)       | Backend Developer        |
+| Name                          | GitHub                                            | Role                                |
+| ----------------------------- | ------------------------------------------------- | ------------------------------------|
+| **Suvrodeep Das (Team Lead)** | [TechFreak2003](https://github.com/TechFreak2003) | Team Lead & ML Developer            |
+| **Alok Kumar**                | [alok-devforge](https://github.com/alok-devforge) | Frontend+Backend Developer          |
+| **M Kalkita**                 | [Kalkita](https://github.com/Kalkita)             | Data Engineer                       |
+| **Rohini Khan**               | [Rohini2004](https://github.com/Rohini2004)       | UI/UX Developer & Alert System      |
+| **Sarthak Bose**              | [Cyber-Bose](https://github.com/Cyber-Bose)       | Backend+System Integration Engineer |
 
 ---
 
 ## 📫 Contact
 
 For queries or collaborations, feel free to reach out via [GitHub Issues](../../issues).
+
 
