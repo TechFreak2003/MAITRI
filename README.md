@@ -60,8 +60,13 @@ Building MAITRI wasn’t without challenges. Some of the biggest hurdles include
 
 Here are the key diagrams for better understanding:
 
+### 1. Architecture Diagram
 - ![Architecture Diagram](./project-docs/archi%20dg.png)
+
+### 2. DFD Diagram
 - ![Data Flow Diagram](./project-docs/maitri%20dfd_page-0001.jpg)
+
+### 3. UserFlow Diagram
 - ![User Flow Diagram](./project-docs/UserFlow%20Diagram.png)
 
 ---
@@ -144,6 +149,7 @@ trainer.save_model("maitri_model.pkl")
 ## 📫 Contact
 
 For queries or collaborations, feel free to reach out via [GitHub Issues](../../issues).
+
 
 
 
